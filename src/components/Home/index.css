@@ -1,0 +1,13 @@
+.spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.courses {
+  padding: 40px;
+  margin: 30px;
+}

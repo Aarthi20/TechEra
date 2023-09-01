@@ -1,0 +1,16 @@
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.not-found {
+  width: 300px;
+  margin-top: 30px;
+}
+.heading {
+  color: #1e293b;
+}
+.paragraph {
+  color: #475569;
+}

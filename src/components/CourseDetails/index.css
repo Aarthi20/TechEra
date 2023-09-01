@@ -1,0 +1,14 @@
+.listItem {
+  list-style: none;
+  display: flex;
+  margin: 20px;
+  text-decoration: none;
+}
+.course-name {
+  margin: 10px;
+  color: #475569;
+}
+.list {
+  list-style-type: none;
+  display: flex;
+}

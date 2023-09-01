@@ -1,0 +1,54 @@
+.itemDetails {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  width: 80%;
+  font-family: 'Roboto';
+}
+.image {
+  width: 300px;
+  margin-right: 20px;
+}
+.name {
+  color: #1e293b;
+  font-weight: bold;
+  font-size: 20px;
+}
+.desc {
+  color: #475569;
+  font-weight: normal;
+  font-size: 15px;
+}
+.loader {
+  text-align: center;
+  font-size: 10px;
+}
+.failure-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.failure-heading {
+  color: #4656a1;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.failure-msg {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: normal;
+  font-family: 'Roboto';
+}
+.retry-button {
+  color: #e8e8e8;
+  background-color: #4656a1;
+  font-size: 10px;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  height: 35px;
+  width: 100px;
+}
